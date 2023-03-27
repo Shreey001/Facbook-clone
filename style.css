@@ -797,4 +797,10 @@ main .container .right{
 }
 
 }
+
+@media screen and (max-width: 480px ){
+   .choose-bg{
+      flex-wrap: wrap;
+   }
+}
    
